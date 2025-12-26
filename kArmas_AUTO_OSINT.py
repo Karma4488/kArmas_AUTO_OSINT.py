@@ -3,6 +3,8 @@
 kArmas AUTO OSINT PLUS
 Passive + Active OSINT Automation Framework
 Termux 118.3 / Android 16
+Made in l0v3 bỲ kArmasec ĥ⁴č̣ƙŦĥɛPłªɲɛŧ
+weareLegion
 """
 
 import os, sys, json, sqlite3, socket, ipaddress, requests, re, ssl
