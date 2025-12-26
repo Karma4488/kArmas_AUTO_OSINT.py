@@ -1,5 +1,5 @@
-# 🛡️ kArmas_AUTO_OSINT.py 🚀
-Fully Automated Termux OSINT Framework
+# 🛡️ kArmas AUTO OSINT PLUS
+Passive + Active OSINT Automation Framework Termux 118.3 / Android 16.
 
 📦 Install (once)
 Bash
