@@ -49,6 +49,6 @@ export VT_API_KEY="..."
 
 bonus info;
 check ip address with curl
-curl https://ipinfo.io/<yourIP>
+curl https://ipinfo .io/<yourIP>
 
 Made in l0v3 bY kArmasec 🎩🎭🌈
