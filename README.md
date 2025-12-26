@@ -1,5 +1,6 @@
 # 🛡️ kArmas AUTO OSINT PLUS
 Passive + Active OSINT Automation Framework Termux 118.3 / Android 16.
+termux 118.3 is running best from android 9 & up.
 
 📦 Install (once)
 Bash
