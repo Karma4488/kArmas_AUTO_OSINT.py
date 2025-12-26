@@ -48,6 +48,25 @@ export IPINFO_TOKEN="..."
 export ABUSEIPDB_KEY="..."
 export VT_API_KEY="..."
 
+# kArmas OSINT Suite
+
+Automated OSINT workflow framework for Red Teams, SOC, IR and Threat Hunters.
+
+## Features
+- Passive & Active OSINT
+- Automatic workflow engine
+- Risk scoring
+- IP / ASN / Domain pivoting
+- SQLite evidence storage
+- Termux (Android 16+) compatible
+- Single-file execution
+
+## Installation (Termux)
+
+```bash
+pkg install python git -y
+pip install -r requirements.txt
+
 bonus info;
 check ip address with curl
 curl https ://ipinfo.io/<yourIP>
