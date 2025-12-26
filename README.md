@@ -1,4 +1,4 @@
-# 🛡️ kArmas_AUTO_OSINT.py
+# 🛡️ kArmas_AUTO_OSINT.py 🚀
 Fully Automated Termux OSINT Framework
 
 📦 Install (once)
@@ -23,6 +23,15 @@ Detects each line type & runs all pivots 🦝
 🔗 Automatic infra pivoting
 🗄️ Long-term investigation DB
 📤 Evidence-ready JSON
+🔄 Zero-interaction automation
+🌐 Passive + Active OSINT
+🔗 Infra pivoting (IP ↔ ASN ↔ Domain)
+🔐 TLS certificate intelligence
+📡 DNS & RDAP enrichment
+🗄️ SQLite investigation trail
+📱 Mobile-ready on Termux
+🛡️ Legally defensible methodology
+This is SOC-grade enrichment, not a toy.🚀🔸️🔹️🔹️🔸️
 📱 Mobile red-team OSINT from Android
 
 ▶️ Run (automatic)
@@ -38,4 +47,8 @@ export IPINFO_TOKEN="..."
 export ABUSEIPDB_KEY="..."
 export VT_API_KEY="..."
 
-Made in l0v3 bY kArmasec
+bonus info;
+check ip address with curl
+curl https://ipinfo.io/<yourIP>
+
+Made in l0v3 bY kArmasec 🎩🎭🌈
